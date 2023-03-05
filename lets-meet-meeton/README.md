@@ -1,0 +1,3 @@
+# Let's meet MeeTon
+
+MeeTon, a virtual treasure hunting pet living in a metaverse space full of unknowns and adventures, is designed to search for treasure for you. After you add it as a friend, it will periodically send you treasure intelligence. By establishing a good relationship through positive communication with it, it will provide treasure clues and in return, you get to gain more achievements and rare rewards. If you do not find the treasure, you can still collect valuable photos or souvenirs (NFTs) it brings from the exploration of unknown star systems. Every time it brings the latest treasure news, it will excitedly message you: "Hey, let's meet on Telegram, I have a big discovery to tell you!"
