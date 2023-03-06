@@ -28,7 +28,7 @@ Promote awareness of MeeTon by circulating elements of MeeTon (e.g., characters,
 
 <summary>User Retention</summary>
 
-Train MeeTON as a user-defined AI treasure hunter through content-based socialization with TG users with in-depth dialogue and creative discussion.&#x20;
+Train MeeTON as a user-defined AI treasure hunter through content-based socialization with TG users by implementing in-depth dialogue and creative discussion.&#x20;
 
 </details>
 
