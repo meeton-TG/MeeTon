@@ -10,6 +10,7 @@
   * [Game Flow](lets-meet-meeton/game-flow.md)
   * [Game Demo](lets-meet-meeton/demo.md)
   * [MeeTon Analysis](lets-meet-meeton/meeton-analysis.md)
+  * [Game Metrics](lets-meet-meeton/game-metrics.md)
 * [Roadmap](roadmap.md)
 * [Market Analysis](market-analysis.md)
 * [GTM Strategy](business-model.md)
