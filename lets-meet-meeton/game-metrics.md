@@ -1,5 +1,7 @@
 # Game Metrics
 
+## Engagement
+
 <details>
 
 <summary>Daily/Monthly active users</summary>
@@ -18,11 +20,55 @@ Use to analyze how users engage with different areas of content.
 
 <details>
 
+<summary>Concurrent users</summary>
+
+Release content and provide effective marketing tools by understanding the demographics of a game's user base.&#x20;
+
+</details>
+
+<details>
+
+<summary>Total playtime</summary>
+
+Tracking the types of content that players spend the most time playing provides inspiration to design future updates that maximize playtime.
+
+</details>
+
+<details>
+
+<summary>Start, fail and complete</summary>
+
+Measure how difficult a piece of content is.
+
+</details>
+
+## Spending
+
+<details>
+
 <summary>First payment conversion</summary>
 
 Design paid content by tracking how long it takes a user to start using the in-game shop.
 
 </details>
+
+<details>
+
+<summary>Customer lifetime value</summary>
+
+Understand how to convert users into profits. For F2P users generate revenues from ad revenue while P2E users generate from in-game purchases.
+
+</details>
+
+<details>
+
+<summary>Average transaction value</summary>
+
+Know how much money users are willing to spend on their game.
+
+</details>
+
+## Retention
 
 <details>
 
@@ -48,50 +94,21 @@ Track how long a user engages with the game before uninstalling. If the game is 
 
 </details>
 
+## User Communication / Conflict
+
 <details>
 
-<summary>Concurrent users</summary>
+<summary>In-game interactions</summary>
 
-Release content and provide effective marketing tools by understanding the demographics of a game's user base.&#x20;
+Interactive playablility on UI and mechanical playablility that involves user's learning, motivation and emotion.
 
 </details>
 
 <details>
 
-<summary>Total playtime</summary>
+<summary>Community forum</summary>
 
-Tracking the types of content that players spend the most time playing provides inspiration to design future updates that maximize playtime.
-
-</details>
-
-<details>
-
-<summary>User acquisition cost</summary>
-
-Measure the effectiveness of marketing promotional efforts.Success Metrics
+Players provide direct feedback to game developers about what they're enjoying or struggling in a game.
 
 </details>
 
-<details>
-
-<summary>Customer lifetime value</summary>
-
-Understand how to convert users into profits. For F2P users generate revenues from ad revenue while P2E users generate from in-game purchases.
-
-</details>
-
-<details>
-
-<summary>Average transaction value</summary>
-
-Know how much money users are willing to spend on their game.
-
-</details>
-
-<details>
-
-<summary>Start, fail and complete</summary>
-
-Measure how difficult a piece of content is.
-
-</details>
