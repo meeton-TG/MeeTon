@@ -2,42 +2,33 @@
 
 The team's core DNA, ranked by importance, is...
 
-1、Game design
+## **Game design/art**
 
-2、Art
+Yuchen - Gamer and artist from US
 
-3、PM/BD
+## PM
 
-4、CTO
+Stefans - Senior PM from HK
 
-5、founder
+## BD
 
+Emma - BD from Taiwan
 
+## CTO
 
-## Leo
+Alex - SH技术全家桶
 
-👋 Founder  — Head of mobile game development in Giant Group. Build up MMO platform of Tencent. Top expert in game, art, media, UX.
+## Game model economist
 
-## Arthur
+猛哥 - 运营和经济模型
 
-👋 COO?  — ??
+## Founder
 
-
-
-## Alex
-
-👋 CTO  — ??
+Leo - SG最后在查缺补漏 缺啥补啥 - Head of mobile game development in Giant Group. Build up MMO platform of Tencent. Top expert in game, art, media, UX.
 
 
 
-## Stefans
+##
 
-👋 Game Designer — ??
 
-## Gungnir
 
-👋 Product Manager — ??
-
-## Emma
-
-👋 BD   — ??
