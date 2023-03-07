@@ -2,7 +2,7 @@
 
 * [Next Wave of Gaming](README.md)
 * [Why TON](why-ton.md)
-* [Start from IM, a seamless user experience](start-from-im-a-seamless-user-experience.md)
+* [Start from IM, the next generation of internet service provider](start-from-im-the-next-generation-of-internet-service-provider.md)
 * [NLP, an accelerator for gamified social media](nlp-an-accelerator-for-gamified-social-media.md)
 * [Let's meet MeeTon](lets-meet-meeton/README.md)
   * [Vision](lets-meet-meeton/vision.md)
