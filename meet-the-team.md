@@ -2,29 +2,17 @@
 
 The team's core DNA, ranked by importance, is...
 
-## **Game design/art**
+Game Designer – Yuchen – prev SVA. Blockchain since 2018 NFT Maxis.&#x20;
 
-Yuchen - Gamer and artist from US
+Chief Producer – Stefans – Producer of billion-worth DeFi and GameFi. Blockchain geek in code and principles. Tokenomic designer and Crypto Native.&#x20;
 
-## PM
+BD – Emma – Avid art lover.&#x20;
 
-Stefans - Senior PM from HK
+CTO – Alex – &#x20;
 
-## BD
+Community Manager / Game Economist – Arthur – &#x20;
 
-Emma - BD from Taiwan
-
-## CTO
-
-Alex - SH技术全家桶
-
-## Game model economist
-
-猛哥 - 运营和经济模型
-
-## Founder
-
-Leo - SG最后在查缺补漏 缺啥补啥 - Head of mobile game development in Giant Group. Build up MMO platform of Tencent. Top expert in game, art, media, UX.
+Founder – Leo – Head of mobile game development in Giant Group. Build up MMO platform of Tencent. Top expert in game, art, media, UX.
 
 
 
