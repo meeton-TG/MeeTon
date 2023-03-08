@@ -30,7 +30,7 @@ There is no social game related to chatbots on the market's social media platfor
 
 <summary>MeeTon Opportunity</summary>
 
-We are to integrate social fission playability including multiplayer's dialogue and interaction into the design of MeeTon game themes and content.
+"Say it with stickers". We are to integrate visual interactions such as stickers, emojis, gifs that reflect the world's hottest buzz in the world into the design of MeeTon game theme, allowing users to share in their preferred communication style and making the multimedia experience more engaging.
 
 </details>
 
@@ -38,6 +38,6 @@ We are to integrate social fission playability including multiplayer's dialogue 
 
 <summary>MeeTON Future</summary>
 
-MeeTON will not only focus on interpersonal playability among players but open up MeeTON as a user-defined AI treasure hunter in game design, allowing everyone to create different personality virtual treasure hunters on Telegram, encouraging more people to participate in this treasure hunt game and achieve large-scale breakthroughs.
+MeeTON will not only focus on interpersonal playability but open up MeeTON as a user-defined AI treasure hunter with different personality, encouraging more people to participate in this treasure hunt game and achieve large-scale breakthroughs.
 
 </details>
