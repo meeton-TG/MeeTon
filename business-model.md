@@ -4,7 +4,7 @@
 
 <summary>User Profile</summary>
 
-Users aged 25-34 who are interested in Web3, travel, and cryptocurrency, or those who seek a simple and user-friendly app. We target telegram's digital nomads who are both location independent and digitally independent. They lead a phygital lifestyle full of diversities by attaching a curated sequence of gamified behaviors to life. A true self-sovereignty with the nomad in full control.
+Users aged 25-34 who are interested in Web3, travel, and cryptocurrency. We target telegram's digital nomads who are both location independent and digitally independent. Calculated from the total spending of digital nomads per year, they have a global economic value of around $787 million.
 
 </details>
 

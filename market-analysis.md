@@ -1,43 +1,29 @@
 # Market Analysis
 
-<details>
+## Most engaging messaging apps of 2023
 
-<summary>Telegram’s users by country: 2023</summary>
+TG’s focus on privacy has seen it perform consistently over the year. While it claims the third spot overall, it ranks within the top five apps in 21/100 countries, and in the top ten in 53/100 countries.
 
-Between 2018 and 2023, Telegram has become increasingly popular and is currently only second to WhatsApp and far ahead of Facebook Messenger, with the gap between the international competitors continuing to narrow.
+{% embed url="https://infogram.com/most-popular-messaging-apps-2023-1h7g6k01xk0o02o" %}
 
-</details>
+## TG’s users by country: 2023
 
-<details>
+<figure><img src=".gitbook/assets/telegram by users.jpg" alt=""><figcaption></figcaption></figure>
 
-<summary>Market Trend</summary>
+## TG’s users engagement: 2022
 
-Telegram's main market is in Russia, where it is the fastest-growing social media platform. At the same time, this instant messaging tool is also popular in Ukraine, Kazakhstan, and the United States, with high download rates in India, Russia, the United States, Indonesia, and Brazil.
+TG’s engagement rising over the course of 2022. At the start of the year, the average time users spend on the app daily has risen steadily from just under 16 minutes to 24 minutes; equating to a 150% increase in just 12 months.
 
-</details>
+<figure><img src=".gitbook/assets/Telegram-engagement-1536x868.png" alt=""><figcaption></figcaption></figure>
 
-<details>
+## TG Demographic distribution
 
-<summary>Countries with highest monthly active users on TG</summary>
+Males account for 62.1% and females account for 37.9% of the target audience. The age distribution is mainly between 25-34 years old (35.1%), followed by 18-24 years old (28.9%) and 35-44 years old (17.2%)
 
-India, Russia, Indonesia, Brazil, Ukraine, United States
+## Top 3 Countries with highest TG MAU
 
-</details>
+•India (165 million), Russia (91 million), Indonesia (45 million).•
 
-<details>
+## Top 3 Countries with highest purchasing power (over 100 thousands/month)
 
-<summary>Demographic distribution of TG users</summary>
-
-Males account for 62.1% and females account for 37.9% of the target audience.&#x20;
-
-The age distribution is mainly between 25-34 years old (35.1%), followed by 18-24 years old (28.9%) and 35-44 years old (17.2%)
-
-</details>
-
-<details>
-
-<summary>Purchasing power (TG monthly income ranking, over 100,000)</summary>
-
-Russia, United States, Ukraine and China
-
-</details>
+•Russia (285 thousands), United States (240 thousands), Ukraine (220 thousands)
