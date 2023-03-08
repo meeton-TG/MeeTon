@@ -8,7 +8,7 @@ The rise of chatbots reflects "user fatigue with the need to download different 
 
 Chatbot allows users to access different interfaces in a chatroom, creating an one-stop service where users enjoy an All-in-One experience through a "chat" approach.
 
-an accelerator for gamified social media
+
 
 ## Chatbot ecosystem
 
