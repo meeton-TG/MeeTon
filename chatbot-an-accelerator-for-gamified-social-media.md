@@ -13,13 +13,3 @@ Chatbot allows users to access different interfaces in a chatroom, creating an o
 ## Chatbot ecosystem
 
 <figure><img src=".gitbook/assets/chatbox ecosystem (1).jpg" alt=""><figcaption></figcaption></figure>
-
-缺點:&#x20;
-
-\- 技術困境: 無法做到自然地與用戶對話，實際上是一個嵌套在通訊App內的自動訊息回覆軟體，功能不脫最基本的查詢和客服
-
-\- 後台維運人力不足
-
-\- 資料庫建置不齊全等，也有不少中途停擺，可能因此造成使用者體驗不佳，使用人數、熱度普遍低落
-
-Technical difficulties: Unable to achieve natural conversation with users, it is actually an automatic message reply software nested in the communication app, with basic functions limited to queries and customer service. Insufficient manpower for backend maintenance. Incomplete database construction, and many have been suspended midway, which may cause poor user experience, and generally low usage and popularity.
