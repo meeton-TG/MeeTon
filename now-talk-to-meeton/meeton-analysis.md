@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Games on social media:</summary>
+<summary>Games on social media</summary>
 
 "Mystic Messenger" on Facebook Messenger game platform, a NLP-enabled game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
 
@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>Game on TONplay:</summary>
+<summary>Game on TONplay</summary>
 
 TON Running Club, a move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
 
@@ -22,7 +22,7 @@ TON Running Club, a move-to-earn social club where runners win $TON by connectin
 
 <summary>MeeTon USP</summary>
 
-There is no social game related to chatbots on the market's social media platforms and instant messengers. Current games use IM and NLP technology to facilitate player interaction and cooperation/competition.
+There is no social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to optimize it for maximum functionality and user-friendliness, with seamless user experience in gamified social media.
 
 </details>
 

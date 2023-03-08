@@ -28,7 +28,11 @@ Promote awareness of MeeTon by circulating elements of MeeTon (e.g., characters,
 
 <summary>User Retention</summary>
 
-Train MeeTON as a user-defined AI treasure hunter through content-based socialization with TG users by implementing in-depth dialogue and creative discussion.&#x20;
+Train MeeTON as a user-defined AI treasure hunter through content-based socialization with TG users by  having creative and in-depth dialogues.
+
+integrating visual interactions such as stickers, emojis gifs that reflect the hottest buzz in the world. in-depth and creative dialogues without disrupting the conversation flow,  and creative discussion.&#x20;
+
+In the context of chatting and multimedia interactions without disrupting the conversational flow, visual elements such as stickers, emojis, and gifs that reflect the hottest trends in the world are essential on messaging platforms. This allows users to share in their preferred communication style, making the experience more engaging and lively.
 
 聊天情境互動，影音互動效果，不干擾對話行為的模式下，在messaging platform上，visual，visual elements are important, ex: stickers, emojis, gifs that relates to the world's hottest buzz. 讓用戶以他們習慣的溝通方式分享，讓遊戲變得有趣/生動 (Say it with stickers)
 
