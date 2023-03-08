@@ -4,17 +4,11 @@
 
 <details>
 
-<summary>Games on social media</summary>
+<summary>Competitor landscape</summary>
 
-"Mystic Messenger" on Facebook Messenger game platform, a NLP-enabled game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
+1\. "Mystic Messenger" on Facebook Messenger game platform, a NLP-enabled game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
 
-</details>
-
-<details>
-
-<summary>Game on TONplay</summary>
-
-TON Running Club, a move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
+2\.  “TON Running Club” on TONplay, a move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
 
 </details>
 
