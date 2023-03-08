@@ -4,15 +4,17 @@
 
 <details>
 
-<summary>Existing IM &#x26; NLP Games</summary>
+<summary>Games on social media:</summary>
 
-1\. Gaming app: &#x20;
+"Mystic Messenger" on Facebook Messenger game platform, a NLP-enabled game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
 
-"Among Us", an NLP-enabled murder game built with IM to find out which player is the killer.&#x20;
+</details>
 
-2\. Social media platform and IM software games:&#x20;
+<details>
 
-"Mystic Messenger" on Messenger game platform, a game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
+<summary>Game on TONplay:</summary>
+
+TON Running Club, a move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
 
 </details>
 
