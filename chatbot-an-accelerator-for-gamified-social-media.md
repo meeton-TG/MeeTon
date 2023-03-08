@@ -6,7 +6,7 @@ The rise of chatbots reflects "user fatigue with the need to download different 
 
 ## How can we help? Chatbot&#x20;
 
-使用者只需要透過通訊平台，發送訊息給特定Bot便能得到服務，不但解決App過於零散的問題，使用者也不需要再去適應不同的介面，可以輕鬆地用「聊天」方式獲得服務
+Chatbot allows users to access different interfaces in a chatroom, creating an one-stop service where users enjoy an All-in-One experience through a "chat" approach.
 
 an accelerator for gamified social media
 
