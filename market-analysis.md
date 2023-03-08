@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Social Media Trend</summary>
+<summary>Telegram’s users by country: 2023</summary>
 
 Between 2018 and 2023, Telegram has become increasingly popular and is currently only second to WhatsApp and far ahead of Facebook Messenger, with the gap between the international competitors continuing to narrow.
 

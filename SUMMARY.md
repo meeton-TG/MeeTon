@@ -2,7 +2,7 @@
 
 * [Next Wave of Gaming](README.md)
 * [Why TON](why-ton.md)
-* [Start from IM, next gene of internet service provider](start-from-im-next-gene-of-internet-service-provider.md)
+* [Start from IM, next gen of internet service provider](start-from-im-next-gen-of-internet-service-provider.md)
 * [Chatbot, an accelerator for gamified social media](chatbot-an-accelerator-for-gamified-social-media.md)
 * [Now TALK to MeeTon](now-talk-to-meeton/README.md)
   * [Vision](now-talk-to-meeton/vision.md)
