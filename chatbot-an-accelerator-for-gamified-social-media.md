@@ -21,3 +21,5 @@ an accelerator for gamified social media
 \- 後台維運人力不足
 
 \- 資料庫建置不齊全等，也有不少中途停擺，可能因此造成使用者體驗不佳，使用人數、熱度普遍低落
+
+Technical difficulties: Unable to achieve natural conversation with users, it is actually an automatic message reply software nested in the communication app, with basic functions limited to queries and customer service. Insufficient manpower for backend maintenance. Incomplete database construction, and many have been suspended midway, which may cause poor user experience, and generally low usage and popularity.
