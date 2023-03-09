@@ -2,7 +2,7 @@
 
 ## Most engaging messaging apps of 2023
 
-TG’s focus on privacy has seen it perform consistently over the year. While it claims the third spot overall, it ranks within the top five apps in 21/100 countries, and in the top ten in 53/100 countries.
+TG’s focus on privacy has ranked it at third spot of top 3 messaging apps of 2023. The top 5 apps in 21/100 countries, and the top 10 in 53/100 countries.
 
 {% embed url="https://infogram.com/most-popular-messaging-apps-2023-1h7g6k01xk0o02o" %}
 
@@ -12,7 +12,7 @@ TG’s focus on privacy has seen it perform consistently over the year. While it
 
 ## TG’s users engagement: 2022
 
-TG’s engagement rising over the course of 2022. At the start of the year, the average time users spend on the app daily has risen steadily from just under 16 minutes to 24 minutes; equating to a 150% increase in just 12 months.
+At the start of 2022, the average time users spend on the app daily has risen steadily from just under 16 minutes to 24 minutes; equating to a 150% increase in just 12 months.
 
 <figure><img src=".gitbook/assets/Telegram-engagement-1536x868.png" alt=""><figcaption></figcaption></figure>
 
