@@ -6,9 +6,9 @@
 
 <summary>Competitor landscape</summary>
 
-1\. "Mystic Messenger" on Facebook Messenger game platform, a NLP-enabled game where players talk to virtual characters and understand and respond to their words and emotions but do not require chatbots to conduct conversations.
+1\. "Mystic Messenger" on Facebook Messenger game platform, a Web2 chatbot-enabled game where players talk to virtual characters and understand and respond to their words and emotions.
 
-2\.  “TON Running Club” on TONplay, a move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
+2\.  “TON Running Club” on TONplay, a Web3 move-to-earn social club where runners win $TON by connecting Tonkeeper wallet to the bot.
 
 </details>
 
@@ -16,7 +16,7 @@
 
 <summary>MeeTon USP</summary>
 
-There is no social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to optimize it for maximum functionality and user-friendliness, with seamless user experience in gamified social media.
+There is no Web3 social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to make a “people’s game” by connecting crypto community and mainstream users, creating a play-and-own community.
 
 </details>
 
