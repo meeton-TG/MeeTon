@@ -24,7 +24,7 @@ There is no social game related to chatbots on the market's social media platfor
 
 <summary>MeeTon Opportunity</summary>
 
-"Say it with stickers". We are to integrate visual interactions such as stickers, emojis, gifs that reflect the world's hottest buzz in the world into the design of MeeTon game theme, allowing users to share in their preferred communication style and making the multimedia experience more engaging.
+"Say it with stickers". We are to integrate visual interactions such as stickers, emojis, gifs that reflect the world's hottest buzz in web3 space into the design of MeeTon game theme, allowing users to share in their preferred communication style and making the multimedia experience more engaging.
 
 </details>
 

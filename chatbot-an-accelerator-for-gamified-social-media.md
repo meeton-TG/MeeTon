@@ -6,7 +6,7 @@ The rise of chatbots reflects "user fatigue with the need to download different 
 
 ## How can we help? Chatbot&#x20;
 
-Chatbot allows users to access different interfaces in a chatroom, creating an one-stop service where users enjoy an All-in-One experience through a "chat" approach.
+Chatbot allows users to access different interfaces in a chatroom, creating an one-stop service where users enjoy an All-in-One experience through an intimate one-on-on "chat" approach.&#x20;
 
 
 
