@@ -16,7 +16,7 @@
 
 <summary>MeeTon USP</summary>
 
-There is no Web3 social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to make a “people’s game” by connecting crypto community and mainstream users, creating a play-and-own community.
+There is no Web3 social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to make a “people’s game” by connecting crypto and mainstream users, creating a play-and-own community.
 
 </details>
 
