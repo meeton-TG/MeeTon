@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Next Wave of Gaming](README.md)
-* [Why TON](why-ton.md)
 * [Start from IM, next gen of internet service provider](start-from-im-next-gen-of-internet-service-provider.md)
 * [Chatbot ushers in a post-APP era](chatbot-an-accelerator-for-gamified-social-media.md)
+* [Why TON](why-ton.md)
 * [Now TALK to MeeTon](now-talk-to-meeton/README.md)
   * [Vision](now-talk-to-meeton/vision.md)
   * [Mission](now-talk-to-meeton/mission.md)
