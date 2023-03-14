@@ -10,8 +10,6 @@ BD – Emma – Avid art lover. Worldwide business resources connector.
 
 CTO- Alex – Tech savvy in information security, network architecture and data visualization. Core of Ex-Alibaba, HikVision.
 
-Community Manager / Game Economist – Arthur –
-
 Founder – Leo – Head of mobile game development in Giant Group. Build up MMO platform of Tencent. Top expert in game, art, media, UX.
 
 
