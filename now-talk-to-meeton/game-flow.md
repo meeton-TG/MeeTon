@@ -12,4 +12,4 @@
 
 6\.     Trade and sell NFT items with other players on the blockchain.
 
-7\.     User your rewards and NFT items to buff your MeeTon and upgrade equipment/wearables.
+7\.     Use your rewards and NFT items to buff your MeeTon and upgrade equipment/wearables.
