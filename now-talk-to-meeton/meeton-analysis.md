@@ -16,7 +16,7 @@
 
 <summary>MeeTon USP</summary>
 
-There is no Web3 social game related to chatbots on the market's social media platforms and instant messengers. As a launchpad for interacting with Telegram, we aim to make a “people’s game” by connecting crypto and mainstream users, creating a play-and-own community.
+To adopt a Web3 economy model into MeeTON where users are offered tangible value (tokens & revenue) for what they own in the game world. As TON ecosystem contributor, we aim to make a “people’s game” by connecting crypto and mainstream users, creating a play-and-own community.
 
 </details>
 
@@ -24,14 +24,6 @@ There is no Web3 social game related to chatbots on the market's social media pl
 
 <summary>MeeTon Opportunity</summary>
 
-"Say it with stickers". We are to integrate visual interactions such as stickers, emojis, gifs that reflect the world's hottest buzz in web3 space into the design of MeeTon game theme, allowing users to share in their preferred communication style and making the multimedia experience more engaging.
-
-</details>
-
-<details>
-
-<summary>MeeTON Future</summary>
-
-MeeTON will not only focus on interpersonal playability but open up MeeTON as a user-defined AI treasure hunter with different personality, encouraging more people to participate in this treasure hunt game and achieve large-scale breakthroughs.
+We create a scenario where funny yet obsessive memes can be widely spread among users and thus bring them down the sales funnel.
 
 </details>
