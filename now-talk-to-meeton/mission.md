@@ -1,4 +1,4 @@
 # Mission
 
-MeeTON is foremostly enjoyment, with earnings being a kind of welcome aftereffect that comes from the involvement of cryptoassets and NFTs.
+MeeTON is not to chat with words like an automated replier but to chat with heart as your emotional supporter or blockchain learning buddy by utilizing IM’s real-time, personalized and convenient communication.
 
