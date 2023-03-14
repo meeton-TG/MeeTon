@@ -20,7 +20,7 @@ Utilize the social relations of benefit-driven TG users to snowball our user bas
 
 <summary>User Acquisition</summary>
 
-Promote awareness of MeeTon by circulating elements of MeeTon (e.g., characters, video game music, game background images, short-form videos) to drive high traffic through follow-and-feed social mechanism.&#x20;
+"Say it with stickers". We are to integrate visual interactions such as stickers, emojis, gifs that reflect the world's hottest buzz in blockchain space into the design of MeeTon game theme, allowing users to share in their preferred communication style and making the multimedia experience more engaging and driving high traffic through follow-and-feed social mechanism.
 
 </details>
 
@@ -28,7 +28,7 @@ Promote awareness of MeeTon by circulating elements of MeeTon (e.g., characters,
 
 <summary>User Retention</summary>
 
-Train MeeTON as a user-defined AI treasure hunter through content-based socialization with TG users by having creative and in-depth dialogues.
+Grow MeeTON into a user-defined AI treasure hunter through content-based socialization by conversing in-depth and creatively, creating a “soul” for each user self-generated content.
 
 </details>
 
